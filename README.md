@@ -4,7 +4,7 @@ A todo board for your Mac that looks and feels like a sheet of steel on your wal
 
 It lives on your desktop: hide it with **⌘H**, bring it back from anywhere with **⇧⌘H**.
 
-<img src="docs/screenshot.png" width="420" alt="Board: a steel sheet with paper notes, a checklist and a deadlines card">
+<img src="docs/teaser.png" alt="Board: a steel sheet with a pinned photo, a checklist and a deadlines card">
 
 ## Download
 
